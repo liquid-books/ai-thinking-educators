@@ -152,7 +152,7 @@ Bloom's Taxonomy rebuilt for the AI age. Backwards design with AI as co-pilot. A
 
 :::{grid-item-card} Chapter 8: The Long View
 :link: ./chapters/ch08-long-view.md
-The future isn't something that happens to you. It's something you teach into being. Your personal 10-year plan. Anchored in Transformative Learning (Mezirow). *Coming soon.*
+The future isn't something that happens to you. It's something you teach into being. Mezirow's Transformative Learning reframed for the AI era, a clear-eyed look at the next decade's real opportunities and real threats, new teacher roles that don't have names yet, and a personal 10-year professional development roadmap. Ends with a letter to the teacher of 2035.
 :::
 
 <!-- GRID_PLACEHOLDER -->
