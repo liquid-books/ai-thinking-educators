@@ -32,6 +32,10 @@ project:
     - format: pdf
   toc:
     - file: index.md
+    - title: "Dedication"
+      file: chapters/frontmatter-dedication.md
+    - title: "Foreword"
+      file: chapters/frontmatter-foreword.md
     - title: "Chapter 1: The Classroom Has Already Changed"
       file: chapters/ch01-classroom-changed.md
     - title: "Chapter 2: Inside the Machine — What AI Actually Is"
