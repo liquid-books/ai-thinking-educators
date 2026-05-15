@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 900px;
+    height: 700px;
+    overflow: hidden;
+  }
+  .scene {
+    perspective: 1800px;
+    perspective-origin: 50% 45%;
+  }
+  .book {
+    width: 340px;
+    height: 500px;
+    position: relative;
+    transform-style: preserve-3d;
+    transform: rotateY(-30deg);
+    filter: drop-shadow(30px 40px 50px rgba(0,0,0,0.35));
+  }
+  .book__front {
+    position: absolute;
+    width: 340px;
+    height: 500px;
+    background: #0b1d38;
+    transform: translateZ(20px);
+    overflow: hidden;
+  }
+  .book__front img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .book__spine {
+    position: absolute;
+    width: 40px;
+    height: 500px;
+    background: linear-gradient(to right, #060e1c, #0d1f3c 60%, #152842);
+    transform: rotateY(-90deg) translateZ(20px);
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+  .book__spine span {
+    color: rgba(255,255,255,0.85);
+    font-family: 'Arial', sans-serif;
+    font-size: 9.5px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    white-space: nowrap;
+    transform: rotate(180deg);
+    writing-mode: vertical-rl;
+  }
+  .book__back {
+    position: absolute;
+    width: 340px;
+    height: 500px;
+    background: #060e1c;
+    transform: translateZ(-20px) rotateY(180deg);
+  }
+  .book__top {
+    position: absolute;
+    width: 340px;
+    height: 40px;
+    background: linear-gradient(to bottom, #e8e2d5, #d4cec1);
+    transform: rotateX(90deg) translateZ(0px);
+    top: 0;
+  }
+  .book__bottom {
+    position: absolute;
+    width: 340px;
+    height: 40px;
+    background: linear-gradient(to top, #ccc6b8, #d8d2c5);
+    transform: rotateX(-90deg) translateZ(-40px);
+    bottom: 0;
+  }
+  .book__pages {
+    position: absolute;
+    width: 40px;
+    height: 500px;
+    right: 0;
+    background: repeating-linear-gradient(
+      to bottom,
+      #f0ebe0,
+      #f0ebe0 1px,
+      #e8e2d4 2px,
+      #e8e2d4 3px
+    );
+    transform: rotateY(90deg) translateZ(-320px);
+  }
+</style>
+</head>
+<body>
+<div class="scene">
+  <div class="book">
+    <div class="book__front">
+      <img src="./images/cover-flat.png" alt="Cover">
+    </div>
+    <div class="book__spine">
+      <span>AI Thinking for Educators &nbsp;·&nbsp; Dr. Ernesto Lee</span>
+    </div>
+    <div class="book__back"></div>
+    <div class="book__top"></div>
+    <div class="book__bottom"></div>
+    <div class="book__pages"></div>
+  </div>
+</div>
+</body>
+</html>
