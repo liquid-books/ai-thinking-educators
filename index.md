@@ -122,7 +122,7 @@ The disruption is here. From Bloom's 2 Sigma Problem to the prefrontal cortex, f
 
 :::{grid-item-card} Chapter 2: Inside the Machine
 :link: ./chapters/ch02-inside-machine.md
-What AI actually is — tokens, context windows, and probability — without the math. Grounded in Miller's 7±2 and Connectivism. *Coming soon.*
+What AI actually is — tokens, context windows, and probability — without the math. Grounded in Miller's 7±2 and Connectivism. Includes hands-on lab: Build Your Personal Teacher Prompt Library.
 :::
 
 :::{grid-item-card} Chapter 3: Gemini and the Art of the Gem
