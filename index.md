@@ -147,7 +147,7 @@ From tools to teammates. Build a six-agent roster and connect it to your existin
 
 :::{grid-item-card} Chapter 7: Pedagogy First
 :link: ./chapters/ch07-pedagogy-first.md
-Everything so far is technology. This chapter is about teaching. Bloom's Taxonomy rebuilt for the AI age, authentic assessment, and the irreducible zone of the human teacher. *Coming soon.*
+Bloom's Taxonomy rebuilt for the AI age. Backwards design with AI as co-pilot. Authentic assessment when AI writes the essay. Metacognition as the central skill. The irreducible human zone of Fink's taxonomy. Your pedagogical compass for the AI era.
 :::
 
 :::{grid-item-card} Chapter 8: The Long View
