@@ -127,7 +127,7 @@ What AI actually is — tokens, context windows, and probability — without the
 
 :::{grid-item-card} Chapter 3: Gemini and the Art of the Gem
 :link: ./chapters/ch03-gemini-gems.md
-Stop using AI like a search engine and start using it like a colleague. Build your first six Gems. Anchored in Vygotsky's ZPD and Bandura's self-efficacy. *Coming soon.*
+Stop using AI like a search engine and start using it like a colleague. Build your first six Gems — from the Patient Tutor to the Differentiation Engine. Anchored in Vygotsky's ZPD and Bandura's self-efficacy theory.
 :::
 
 :::{grid-item-card} Chapter 4: NotebookLM — When Your Sources Talk Back
