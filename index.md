@@ -142,7 +142,7 @@ Where the real power lives. Multimodal inputs, temperature controls, and model c
 
 :::{grid-item-card} Chapter 6: Your Synthetic Educational Team
 :link: ./chapters/ch06-agents-team.md
-From tools to teammates. Build a six-agent roster and connect it to your existing workflow. Grounded in Andragogy (Knowles) and Self-Determination Theory. *Coming soon.*
+Stop using AI as a tool and start hiring it as a teammate. Build your Grading Assistant, IEP Drafter, Parent-Update Writer, Curriculum Mapper, and Sub-Plan Generator using Google Antigravity. Grounded in Andragogy (Knowles) and Self-Determination Theory (Deci & Ryan).
 :::
 
 :::{grid-item-card} Chapter 7: Pedagogy First

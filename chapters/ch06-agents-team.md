@@ -338,6 +338,15 @@ Parent communication is one of the highest-leverage activities a teacher can do 
 
 This is the one you feel in your stomach every time you call in sick. The sub folder that's always almost done. The three-page write-up you know you should have ready but keep not getting to because everything else is more urgent.
 
+:::{figure} ../images/ch06-sub-plan-agent.png
+:label: fig-ch06-sub-plan-agent
+:alt: Flowchart showing the Substitute Folder Agent pipeline from a single teacher prompt to a complete substitute folder output
+:width: 85%
+:align: center
+
+**The Sub-Plan Agent Pipeline.** One sentence in. An entire substitute folder out. The agent reads your Drive resources, formats the plan, and creates a ready-to-print document — all before you finish your morning coffee.
+:::
+
 **What it does**: From a single prompt — "I need a sub plan for tomorrow, third period, we're on Chapter 7 of the textbook, there's a quiz on Thursday so don't review that material" — it generates a complete substitute folder: a daily schedule, step-by-step lesson instructions written for someone who does not know your subject, a seating chart (from the one you've uploaded to Drive), attendance procedures, emergency contact information, classroom management expectations, and a student helper list.
 
 **What you do**: Review it. Print it or share it. Go rest, because you're sick.
