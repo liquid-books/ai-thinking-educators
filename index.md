@@ -137,7 +137,7 @@ Upload your sources once — get cited answers, study guides, audio overviews, a
 
 :::{grid-item-card} Chapter 5: AI Studio — Behind the Curtain
 :link: ./chapters/ch05-ai-studio.md
-Where the real power lives. Multimodal inputs, temperature controls, and model comparison. Anchored in Kolb's Experiential Learning cycle. *Coming soon.*
+Gemini is the front door. AI Studio is the laboratory. This chapter takes you inside — model selection, temperature, 1-million-token context windows, multimodal inputs (images, audio, video, documents), system instructions, and stream-of-thought reasoning. Anchored in Kolb's Experiential Learning cycle (Dewey, 1938; Kolb, 1984) — compressed from a week to five minutes.
 :::
 
 :::{grid-item-card} Chapter 6: Your Synthetic Educational Team

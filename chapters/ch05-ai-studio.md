@@ -655,6 +655,15 @@ Set your model to **Gemini 2.5 Pro** (for quality) or **Gemini 2.0 Flash** (for 
 
 ---
 
+:::{figure} ../images/ch05-essay-grading.png
+:label: fig-ch05-essay-grading
+:alt: Multimodal essay grading workflow diagram showing rubric and student essays being uploaded into AI Studio, system instructions being applied, and AI feedback drafts being generated for teacher review
+:width: 85%
+:align: center
+
+**The Multimodal Essay-Grading Workflow.** Upload rubric + essays → write system instructions → generate feedback drafts → teacher reviews and personalizes. The AI handles the first pass; you handle the professional judgment.
+:::
+
 ### Step 3: Run Your First Essay (10 min)
 
 In the chat area, type the following prompt — adjusting the brackets for your actual materials:
