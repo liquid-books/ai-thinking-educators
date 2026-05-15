@@ -33,7 +33,6 @@ That is still the job. It will always be the job. This book will help you do it 
 
 ---
 
-*— [Name, Title]*
-*[Institution]*
-*[City, State]*
-*[Year]*
+*— Professor Carlos Marquez*
+*AI Professor*
+*Miami Dade College*
