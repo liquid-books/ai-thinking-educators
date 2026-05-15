@@ -675,24 +675,31 @@ Review Gemini's responses and integrate what's useful. *Remember: you are the au
 
 ---
 
-### Step 4: Peer Review (15 min)
+### Step 4: Group AI Challenge (20 min)
 
-Share your Google Doc with at least two classmates (use "Anyone with the link can comment" sharing settings).
+This is where the lab goes beyond your individual policy draft.
 
-**Peer review protocol:** For each policy you review, leave comments addressing:
-1. One section that is especially strong and why
-2. One section that needs more specificity — give a specific suggestion
-3. One scenario the policy doesn't address that you think it should
+Working in your group, use AI to do two things:
 
-After receiving peer feedback, make at least two revisions based on what you learned.
+**First — identify a real problem.** Have a conversation with Gemini where your group collectively brainstorms a genuine challenge facing teachers in your school or district right now. Let the AI help you sharpen the problem statement. Push back on vague answers. Keep going until you have a problem that is specific, real, and worth solving.
+
+**Second — use AI to solve it.** Once you have the problem, use Gemini to help your group develop a concrete solution, strategy, or approach. This could be a policy, a process, a lesson design, a communication strategy — whatever the problem calls for. The AI is your thinking partner, not your ghostwriter. Your group's judgment drives the decisions.
+
+Be prepared to share with the full class:
+- What problem you identified and why it matters
+- How AI helped you think through it
+- What your proposed solution looks like
+- What the AI got right — and what it missed
+
+There are no wrong problems and no wrong solutions. The goal is to practice using AI as a genuine thinking tool and to be able to articulate the value of what you built.
 
 ---
 
 ### Submission
 
 Submit to Canvas:
-1. A link to your final Google Doc (make sure sharing is set to "Anyone with the link can view")
-2. A 150-word reflection: What was the hardest section to write, and why? What did you learn from writing it that surprised you?
+1. A link to your individual AI Use Policy Google Doc (sharing set to "Anyone with the link can view")
+2. A 150-word reflection: What was the hardest section of your policy to write, and why? What surprised you about using AI as a drafting partner?
 
 **Grading rubric:**
 | Criterion | Points |
@@ -700,110 +707,17 @@ Submit to Canvas:
 | All six policy sections present and substantive | 3 pts |
 | Policy reflects understanding of Chapter 1 concepts | 3 pts |
 | Evidence of Gemini use and critical revision | 2 pts |
-| Peer review participation and revisions | 2 pts |
+| Group AI challenge participation and class discussion | 2 pts |
 | **Total** | **10 pts** |
 
 ---
 
-## In-Class Assignment: Personal AI Readiness Audit (10 pts)
 
-### Overview
+## 🎯 In-Class Assignment: Personal AI Readiness Audit (10 pts)
 
-Before you can make good decisions about AI in your classroom, you need an honest picture of where you are *right now*. This in-class assignment is a structured self-assessment — a snapshot of your current AI knowledge, your habits, your fears, and your hopes.
+**Details and instructions will be provided in class.**
 
-There are no wrong answers. There is only honest data.
-
-**Time:** 45–60 minutes in class  
-**Format:** Written self-assessment + small group discussion  
 **Points:** 10
-
----
-
-### Part 1: Knowledge Inventory (10 min, individual)
-
-Without using any tools, answer the following questions as honestly as you can:
-
-1. In your own words, what does an AI language model actually do when it responds to a question? (Don't look it up — write what you actually understand right now.)
-
-2. Name three specific ways you have already used AI in your professional or personal life in the last 30 days.
-
-3. Name three ways you have seen students use AI — or suspect they have — in your classroom in the last school year.
-
-4. What is the one thing about AI that worries you most as an educator?
-
-5. What is the one thing about AI that excites you most as an educator?
-
----
-
-### Part 2: Self-Assessment (15 min, individual)
-
-Rate yourself honestly on each item (1 = Not at all, 5 = Fully confident):
-
-| Area | Self-Rating (1–5) |
-|------|------------------|
-| I understand what a large language model is | |
-| I can explain AI to a parent in plain language | |
-| I can explain AI to a student in age-appropriate language | |
-| I have a clear personal policy on student AI use | |
-| I know my district's current AI policy | |
-| I have used AI to help prepare lessons or materials | |
-| I have used AI to provide feedback on student work | |
-| I feel confident distinguishing AI-generated student work from original work | |
-| I understand the concept of productive struggle and design for it | |
-| I believe my students have a growth mindset about AI | |
-
-**Total your score and note your lowest-rated items.** These are your priority growth areas for this course.
-
----
-
-### Part 3: Small Group Discussion (20 min, groups of 3–4)
-
-Share your responses from Parts 1 and 2 with your small group. Discuss:
-
-1. What patterns do you notice across your group? Where do people feel most confident? Most uncertain?
-
-2. Share one specific scenario from your classroom where you genuinely didn't know whether student AI use was appropriate or inappropriate. What made it ambiguous? What would have helped you make a clearer call?
-
-3. If you could change one thing about how AI is currently used in your school or district — not banned, not required, but *changed* — what would it be?
-
-Record two key insights from your group discussion to share with the full class.
-
----
-
-### Part 4: Written Commitment (10 min, individual)
-
-Write 2–3 sentences completing each of the following prompts:
-
-**I am bringing to this course:**  
-*(Your relevant experience, expertise, perspective — what you know that will contribute to the learning community)*
-
-**I am bringing to this course:**  
-*(Your honest uncertainties, gaps, and questions — what you need this course to address)*
-
-**By the end of this course, I commit to:**  
-*(One specific, concrete thing you will do differently in your classroom as a result of this learning)*
-
----
-
-### Submission
-
-Submit to Canvas:
-- Parts 1–2 (your written responses and self-assessment scores)
-- Part 4 (your written commitment)
-- Two key insights from your Part 3 group discussion
-
-**Grading rubric:**
-| Criterion | Points |
-|-----------|--------|
-| Parts 1 and 2 complete and substantive | 4 pts |
-| Evidence of honest self-reflection (not just "correct" answers) | 3 pts |
-| Part 3 group insights recorded and shared | 1 pt |
-| Part 4 commitment is specific and actionable | 2 pts |
-| **Total** | **10 pts** |
-
-:::{tip} A Note on Honesty
-The temptation in a course like this is to write what you think sounds good rather than what is actually true. Resist it. Your self-assessment is not graded for the right answers — it's graded for honest engagement. The only way to make real progress in this course is to start with an accurate picture of where you actually are. The most useful thing you can do right now is be real about that.
-:::
 
 ---
 
