@@ -117,7 +117,7 @@ Bloom's Taxonomy (Anderson & Krathwohl) · Metacognition (Flavell) · Fink's Tax
 
 :::{grid-item-card} Chapter 1: The Classroom Has Already Changed
 :link: ./chapters/ch01-classroom-changed.md
-The disruption is here. Five foundational theories — from Skinner's slot machine to Dweck's growth mindset — reframed for the AI era. *Coming soon.*
+The disruption is here. From Bloom's 2 Sigma Problem to the prefrontal cortex, from Skinner's slot machine to Dweck's growth mindset — five foundational theories reframed for the AI era. Includes hands-on lab: Draft Your Classroom AI Use Policy.
 :::
 
 :::{grid-item-card} Chapter 2: Inside the Machine
