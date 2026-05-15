@@ -132,7 +132,7 @@ This is why Knowles matters here. Agents are not just useful for teachers — th
 
 ## 6.4 Welcome to Google Antigravity
 
-You've been hearing about agents in the abstract. Let's make it concrete with the platform this course uses: **Google Antigravity** — accessible at [agents.google.com](https://agents.google.com).
+You've been hearing about agents in the abstract. Let's make it concrete with the platform this course uses: **Google Antigravity** — accessible at [antigravity.google](https://antigravity.google).
 
 Google Antigravity is Google's agent-building platform released in 2025 as part of the Google AI Pro and Ultra ecosystem. It lets you — without writing a single line of code — create, configure, and deploy AI agents that connect to your Google Workspace tools. For teachers, this means agents that can read your Google Drive, write to Google Docs, send Gmail drafts, check Google Calendar, and interact with Google Classroom.
 
@@ -141,7 +141,7 @@ The interface is designed for professionals, not programmers. You describe what 
 Think of it as hiring. You're not building a robot. You're onboarding a new team member. You write their job description. You give them access to the files they need. You tell them what they're allowed to do on their own and what needs your sign-off. Then you let them work.
 
 ::::{tab-set}
-:::{tab-item} Google Antigravity (agents.google.com)
+:::{tab-item} Google Antigravity (antigravity.google)
 **Best for:** Teachers who want to build custom agents with full Google Workspace integration.
 
 - Connect to Drive, Gmail, Calendar, Classroom, Docs, Sheets
@@ -151,7 +151,7 @@ Think of it as hiring. You're not building a robot. You're onboarding a new team
 - Team sharing (share your agent with other teachers)
 - Available: Google AI Pro / AI Ultra subscribers
 
-**Access:** [agents.google.com](https://agents.google.com) with your personal Google account
+**Access:** [antigravity.google](https://antigravity.google) with your personal Google account
 :::
 
 :::{tab-item} Gemini with Extensions
@@ -619,7 +619,7 @@ The goal is not maximum automation. The goal is maximum teaching. You got into t
 You're going to build the agent from Ms. Chen's case study. By the end of this lab, you will have a working Substitute Folder Agent that can generate a complete sub plan from a single prompt. This is not a simulation. This is a real agent you will use.
 
 **Time required:** Approximately 90–120 minutes  
-**Tools:** Google Antigravity ([agents.google.com](https://agents.google.com)) or Gemini with Extensions  
+**Tools:** Google Antigravity ([antigravity.google](https://antigravity.google)) or Gemini with Extensions  
 **Points:** 10
 
 ---
@@ -677,7 +677,7 @@ Spend time on this. A well-written goal statement is the difference between an a
 
 ### Step 3: Build the Agent in Google Antigravity (30 min)
 
-1. Go to [agents.google.com](https://agents.google.com) and sign in with your personal Google account.
+1. Go to [antigravity.google](https://antigravity.google) and sign in with your personal Google account.
 2. Click **Create Agent** (or **New Agent** — the interface may vary by version).
 3. Name your agent: **Sub-Plan Generator — [Your Name]**
 4. In the goal/instructions field, paste your goal statement from Step 2.
@@ -762,7 +762,7 @@ AI Agent
   A software system that perceives its environment, makes decisions, and takes autonomous actions to achieve a defined goal, often using tools like email, calendars, and documents without requiring a human prompt at each step.
 
 Google Antigravity
-  Google's agent-building platform (agents.google.com), released in 2025, that allows professionals to create and deploy AI agents connected to Google Workspace tools without writing code.
+  Google's agent-building platform (antigravity.google), released in 2025, that allows professionals to create and deploy AI agents connected to Google Workspace tools without writing code.
 
 Andragogy
   Malcolm Knowles' theory of adult learning (1968, 1970), contrasting with pedagogy (child learning). Adult learners are self-directing, experience-driven, problem-centered, and need immediate relevance — characteristics that align strongly with agentic AI tools.

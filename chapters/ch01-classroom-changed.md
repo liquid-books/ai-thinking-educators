@@ -617,9 +617,9 @@ Before you write a single word of your policy, you need to know what institution
 
 Review the response critically. Then independently verify with these current sources:
 
-- **Miami-Dade County Public Schools Technology Acceptable Use Policy:** Visit [dadeschools.net](https://dadeschools.net) → search "AI use policy" or "acceptable use technology" for current guidelines
+- **Miami-Dade County Public Schools Technology Acceptable Use Policy:** Visit [dadeschools.net](https://www.dadeschools.net) → search "AI use policy" or "acceptable use technology" for current guidelines
 - **Florida Department of Education:** Visit [fldoe.org](https://fldoe.org) → Technology in Education section for Florida-specific AI directives
-- **Google for Education:** [edu.google.com/intl/ALL_us/products/gsuite-for-education/privacy](https://edu.google.com/intl/ALL_us/products/gsuite-for-education/privacy) — Student Data Privacy and AI use guidelines
+- **Google for Education:** [edu.google.com/products/workspace-for-education/](https://edu.google.com/products/workspace-for-education/) — Student Data Privacy and AI use guidelines
 - **ISTE (International Society for Technology in Education):** [iste.org/areas-of-focus/AI-in-education](https://iste.org/areas-of-focus/AI-in-education) — current educator AI standards
 
 :::{tip} Gemini Research Tip
