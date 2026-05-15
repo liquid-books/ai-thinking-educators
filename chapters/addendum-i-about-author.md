@@ -15,7 +15,7 @@ This work carries a personal weight that goes beyond professional interest. Dr. 
 
 ---
 
-*Learn more:* [website] | [email] | Miami Dade College
+*Miami Dade College*
 
 ---
 *Dr. Ernesto Lee teaches at Miami Dade College.*  
