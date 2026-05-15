@@ -162,5 +162,5 @@ The future isn't something that happens to you. It's something you teach into be
 ---
 
 :::{note} About the Author
-**Dr. Ernesto Lee** is a professor of information technology and applied artificial intelligence with appointments at Florida Atlantic University, Miami Dade College, and Palm Beach Atlantic University. He teaches at the intersection of learning science, emerging technology, and pedagogical practice.
+**Dr. Ernesto Lee** is a professor of information technology and applied artificial intelligence at Miami Dade College. He teaches at the intersection of learning science, emerging technology, and pedagogical practice.
 :::
