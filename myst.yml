@@ -75,6 +75,6 @@ site:
   title: "AI Thinking for Educators"
   options:
     logo_text: "AI Thinking for Educators"
-    logo_url: "/ai-thinking-educators/"
+    logo_url: "https://liquid-books.github.io/ai-thinking-educators/"
   parts:
     primary_sidebar_footer: primary-sidebar-footer.md
