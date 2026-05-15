@@ -132,7 +132,7 @@ Stop using AI like a search engine and start using it like a colleague. Build yo
 
 :::{grid-item-card} Chapter 4: NotebookLM — When Your Sources Talk Back
 :link: ./chapters/ch04-notebooklm.md
-The most underrated tool in education right now. Grounded in Cognitive Load Theory (Sweller) and Mayer's Multimedia Learning principles. *Coming soon.*
+Upload your sources once — get cited answers, study guides, audio overviews, and a searchable year of curriculum. Grounded in Cognitive Load Theory (Sweller) and Mayer's Multimedia Learning principles.
 :::
 
 :::{grid-item-card} Chapter 5: AI Studio — Behind the Curtain
