@@ -1,0 +1,58 @@
+# MyST project configuration
+# Docs: https://mystmd.org/guide/configuration
+version: 1
+project:
+  title: "AI Thinking for Educators"
+  subtitle: "A Masterclass for the K–12 Teacher in the Age of Artificial Minds"
+  authors:
+    - name: Dr. Ernesto Lee
+  description: >
+    A comprehensive masterclass for K–12 teachers navigating the age of artificial intelligence.
+    Eight chapters grounded in 17 learning theories, with hands-on labs using Gemini, NotebookLM,
+    and AI Studio.
+  keywords:
+    - artificial intelligence
+    - K-12 education
+    - pedagogy
+    - Google Gemini
+    - NotebookLM
+    - AI Studio
+    - educational technology
+  license: CC-BY-4.0
+  open_access: true
+  github: https://github.com/liquid-books/ai-thinking-educators
+  numbering:
+    heading_1: true
+    heading_2: true
+    heading_3: true
+    figure: true
+    table: true
+    equation: true
+  exports:
+    - format: pdf
+  toc:
+    - file: index.md
+    - title: "Chapter 1: The Classroom Has Already Changed"
+      file: chapters/ch01-classroom-changed.md
+    - title: "Chapter 2: Inside the Machine — What AI Actually Is"
+      file: chapters/ch02-inside-machine.md
+    - title: "Chapter 3: Gemini and the Art of the Gem"
+      file: chapters/ch03-gemini-gems.md
+    - title: "Chapter 4: NotebookLM — When Your Sources Talk Back"
+      file: chapters/ch04-notebooklm.md
+    - title: "Chapter 5: AI Studio — Behind the Curtain"
+      file: chapters/ch05-ai-studio.md
+    - title: "Chapter 6: Your Synthetic Educational Team"
+      file: chapters/ch06-agents-team.md
+    - title: "Chapter 7: Pedagogy First — Putting AI in Its Place"
+      file: chapters/ch07-pedagogy-first.md
+    - title: "Chapter 8: The Long View — Education's Next Decade"
+      file: chapters/ch08-long-view.md
+
+site:
+  title: "AI Thinking for Educators"
+  options:
+    logo_text: "AI Thinking for Educators"
+    logo_url: "/ai-thinking-educators/"
+  parts:
+    primary_sidebar_footer: primary-sidebar-footer.md
