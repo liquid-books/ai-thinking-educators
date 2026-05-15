@@ -52,6 +52,24 @@ project:
       file: chapters/ch07-pedagogy-first.md
     - title: "Chapter 8: The Long View — Education's Next Decade"
       file: chapters/ch08-long-view.md
+    - title: "Addendum A: Course Map"
+      file: chapters/addendum-a-course-map.md
+    - title: "Addendum B: Theoretical Foundations Index"
+      file: chapters/addendum-b-theoretical-foundations.md
+    - title: "Addendum C: Grading Scale and Point Distribution"
+      file: chapters/addendum-c-grading-scale.md
+    - title: "Addendum D: Academic Integrity and AI Disclosure Policy"
+      file: chapters/addendum-d-academic-integrity.md
+    - title: "Addendum E: Discussion Board Rubric"
+      file: chapters/addendum-e-discussion-rubric.md
+    - title: "Addendum F: Glossary of Key Terms"
+      file: chapters/addendum-f-glossary.md
+    - title: "Addendum G: Recommended Reading and Resources"
+      file: chapters/addendum-g-recommended-reading.md
+    - title: "Addendum H: Quick Reference Cards"
+      file: chapters/addendum-h-quick-reference.md
+    - title: "Addendum I: About the Author"
+      file: chapters/addendum-i-about-author.md
 
 site:
   title: "AI Thinking for Educators"
